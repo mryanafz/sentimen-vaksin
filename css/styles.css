@@ -1021,12 +1021,12 @@ a:hover {
 	border: none; 
 	border-radius: 50%; 
 	outline: none; 
-	background-color: #44434a; 
+	background-color: #ff8c4a; 
 	cursor: pointer; 
 }
 
 #myBtn:hover {
-	background-color: #1d1d21;
+	background-color: #ffa673f3;
 }
 
 #myBtn img {
